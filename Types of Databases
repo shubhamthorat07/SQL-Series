@@ -13,4 +13,4 @@ A table consists of rows and columns. These tables are related with each other.
 
 2) Non-Relationoal Database :
                         A database system which does not store data in table format is called
-  Non-Relational Database.  
+  Non-Relational Database.  Unlike relational database, the data is not stored in rows and columns.
